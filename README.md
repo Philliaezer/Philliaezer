@@ -48,6 +48,22 @@ I am currently <b>19 years old</b> (and my birthday is in <b>February 20th day</
 </p>
 </details>
 
+<details><summary>Frameworks that I... work with</summary>
+<p>
+
+#### This is the list of frameworks that I know (or am learning)
+
+|   Language    |  Domination (in %) |
+|  -----------  |    -------------   |
+|    <img src="https://img.shields.io/badge/Mkdocs-2f8a55?style=for-the-badge&logo=markdown&logoColor=darkgreen">   |   80   |
+|    <img src="https://img.shields.io/badge/Flask-FFD43B?style=for-the-badge&logo=flask&logoColor=darkgreen">         |   65   |
+|    <img src="https://img.shields.io/badge/React-5a6982?style=for-the-badge&logo=react&logoColor=white">                |   30    |
+|    <img src="https://img.shields.io/badge/Django-3281a8?style=for-the-badge&logo=django&logoColor=darkblue">                |   60    |
+|    <img src="https://img.shields.io/badge/Laravel-161a01?style=for-the-badge&logo=laravel&logoColor=navyblue">                |   55    |
+
+</p>
+</details>
+
 <details><summary>You can contact me in...</summary>
 <p>
 
