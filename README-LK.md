@@ -1,40 +1,38 @@
-# Hello, dear visitor!
-> <i>This repo is <b>dedicated</b> to show info <b>about me</b></i><br><br>
+# මම කවුද...
+> <i>Mā piḷiban̆da toraturu penvīmaṭa <b>kæpavū</b> repo</i><br><br>
 
 > [!NOTE]
-> This repository is also available in some other languages
-<details><summary>See Languages</summary>
+> Mema repo venat bhāṣā kihipayakin da labā gata hækiya.
+<details><summary>Bhāṣā balanna</summary>
 <p>
 
-- :us: [English](README-EN.md)
-  - <b>You are here</b>
-- :brazil: [Brasilian Portuguese](README-BR.md)
-- :portugal: [Portuguese](README-PT.md)
-- :it: [Italian - In costruzione](README-IT.md)
-- :sri_lanka: [Sinhalese - Indikaramin pavatina](README-LK.md)
-
+- :us: [Imgrīsi](README-EN.md)
+- :brazil: [Brasīliyānu Pṛtugīsi](README-BR.md)
+- :portugal: [Prtugālaya Pṛtugīsi](README-PT.md)
+- :it: [Itāli](README-IT.md)
+- :sri_lanka: [Sinhala](README-LK.md)
+    - <b>Ouā metanayi!</b>
 </p>
 </details>
 
-# About me:
+# මා ගැන:
 
-<details><summary>Buut... Who am I?</summary>
+<details><summary>Namut... Mama kavuda?</summary>
 <p>
 
-#### Well...
+#### හොඳයි...
 
-Hi, my name is <b>Anderson</b>, but you can call me <b>Philliaezer</b>.<br><br>
-I am currently <b>19 years old</b> (and my birthday is in <b>February 20th day</b> of every year).<br><br>
-
+හායි, මගේ නම <b>ඇන්ඩෙයාර්සන්</b>, නමුත් ඔබට මට <b>ෆිලියාසර්</b> ලෙස කතා කළ හැකියි.<br><br>
+මට දැනට වයස <b>19</b>යි (සෑම වසරකම පෙබරවාරි 20 වන දින මගේ උපන්දිනය යෙදී ඇත).<br><br>
 </p>
 </details>
 
-<details><summary>Programming languages ​​I'm "master"</summary>
+<details><summary>මම ක්‍රමලේඛන භාෂා "ප්‍රවීණ"</summary>
 <p>
 
-#### Currently, this is the list of programming languages ​​I know (or am learning)
+#### Currently, this is the list of programming languages I know (or am learning)
 
-|   Language    |  Domination (in %) |
+|   භාෂාව    |  ආධිපත්‍යය (ප්‍රතිශතයෙන්) |
 |  -----------  |    -------------   |
 |    <img src="https://img.shields.io/badge/Brainfuck-2f8a55?style=for-the-badge&logo=braintree&logoColor=darkgreen">   |   80   |
 |    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">         |   65   |
@@ -48,7 +46,7 @@ I am currently <b>19 years old</b> (and my birthday is in <b>February 20th day</
 </p>
 </details>
 
-<details><summary>You can contact me in...</summary>
+<details><summary>ඔබට මාව සම්බන්ධ කර ගත හැක...</summary>
 <p>
 
 
@@ -58,17 +56,14 @@ I am currently <b>19 years old</b> (and my birthday is in <b>February 20th day</
 </p>
 </details>
 
-## Thanks for reading!
-<details><summary>Credits</summary>
+## කියවීමට ස්තූතියි!
+<details><summary>ණය:</summary>
 <p>
 
-- Me
-- Me
-- Me
-- And, amazingly, Me!
-- Did I mention Me?
-
+- මට ද
+- මම
+- මම
+- පුදුමයි, මම!
+- මම දැනටමත් මාව සඳහන් කළාද?
 </p>
 </details>
-
-<p>Base repository created at 2022, January 27</p>
